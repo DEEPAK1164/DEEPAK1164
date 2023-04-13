@@ -3,8 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤩 &nbsp; Enjoying in Exploring more about Data Structure and Algorithms and Learning MERN Stack.
-- 🎓 &nbsp; Studying Information Technology at Institute of Engineering and Technology(IET), Lucknow.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🎓 &nbsp; Studying Information Technology at Institute of Engineering and Technology (IET), Lucknow.
 - 🌱 &nbsp; Learning more about Software Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
