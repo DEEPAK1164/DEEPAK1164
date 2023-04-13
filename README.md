@@ -37,4 +37,4 @@
 <a href="mailto:2001dkmaurya@gmail.com"><img alt="Email" src="2001dkmaurya@gmail.com?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/DEEPAK1164)
+⭐️ From [DEEPAK1164](https://github.com/DEEPAK1164)
